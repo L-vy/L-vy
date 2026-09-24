@@ -1,16 +1,16 @@
-## Hi there 👋
+### Halo, saya Nama Lengkap
+
+Mahasiswa Informatika BINUS @Bandung. Sedang belajar cloud computing di mata kuliah Cloud Services.
+
+- Sedang dikerjakan: [intro-cloud-lab](https://github.com/L-vy/intro-cloud-lab), Cloud Model Lab yang berjalan di Vercel
+- Sedang dipelajari: Linux, Docker, Supabase, Vercel
+- Minat: cloud technology, ui/ux, app development
+- Kontak: [LinkedIn]([https://www.linkedin.com/in/latasha-ivy-khoe/])
 
 <!--
-**L-vy/L-vy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Petunjuk:
+- Repo ini harus PUBLIC dan namanya SAMA PERSIS dengan username GitHub Anda.
+- Ganti USERNAME dan teks di dalam kurung.
+- Jangan cantumkan NIM, nomor HP, alamat rumah, atau tanggal lahir.
+- Hapus komentar ini setelah selesai.
 -->
