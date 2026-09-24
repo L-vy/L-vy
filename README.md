@@ -1,4 +1,4 @@
-### Halo, saya Nama Lengkap
+### Halo, saya Latasha Ivy Khoe
 
 Mahasiswa Informatika BINUS @Bandung. Sedang belajar cloud computing di mata kuliah Cloud Services.
 
