@@ -5,7 +5,7 @@ Mahasiswa Informatika BINUS @Bandung. Sedang belajar cloud computing di mata kul
 - Sedang dikerjakan: [intro-cloud-lab](https://github.com/L-vy/intro-cloud-lab), Cloud Model Lab yang berjalan di Vercel
 - Sedang dipelajari: Linux, Docker, Supabase, Vercel
 - Minat: cloud technology, ui/ux, app development
-- Kontak: [LinkedIn]([https://www.linkedin.com/in/latasha-ivy-khoe/])
+- Kontak: [LinkedIn](https://www.linkedin.com/in/latasha-ivy-khoe/)
 
 <!--
 Petunjuk:
