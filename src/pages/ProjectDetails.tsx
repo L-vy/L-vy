@@ -25,7 +25,7 @@ export default function ProjectDetails() {
           <p className="lead sm">{p.description}</p>
           <h2 className="contrib">Contribution</h2>
           <ul className="contrib-list">{p.contributions.map(c => <li key={c}>{c}</li>)}</ul>
-          <div className="detail-links">{p.links.map(l => <a key={l.label} className="pill link-dotted" href={l.url} target="_blank" rel="noreferrer">{l.label}</a>)}</div>
+          <div className="detail-links">{p.links.map(l => <a key={l.label} className="pill link-dotted" href={l.url} target="_blank" rel="noreferrer"><span className="dot-ul">{l.label}</span></a>)}</div>
         </div>
         <figure className="proto">
           <img src={p.prototypeImage} alt={`${p.title} prototype`} />

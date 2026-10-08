@@ -1,15 +1,21 @@
-# Latasha Ivy Khoe, Portfolio
+### Hi there, I'm Latasha Ivy Khoe (˶ᵔᗜᵔ˶)ﾉﾞ
 
-React + Vite + TypeScript. Drop these files into your existing `portfolio/` folder (keep your `public/` assets).
+Welcome to my GitHub profile! 
 
-```bash
-npm install
-npm run dev      # local preview
-npm run build    # production build in dist/
-```
+I'm a student in computer science who is passionate about building clean, modern web applications and sharing my work. 
 
-**Deploy:** push to GitHub, then import the repo in Vercel (framework: Vite). `vercel.json` handles SPA routing.
+Check out my portfolio live at [lvy-khu.vercel.app](https://lvy-khu.vercel.app/).
 
-**Edit content:** everything lives in `src/data/` (`site.ts`, `projects.ts`, `background.ts`).
-Replace the `example.com` paper links in `background.ts`, and add `image:` paths to award cards to swap placeholders.
-The whole site is sized at 75% via `html { font-size: 75% }` in `src/styles.css`.
+---
+
+### Tech Stack & Tools
+* **Languages:** TypeScript, JavaScript, CSS
+* **Frameworks & Libraries:** React, Vite
+* **Deployment & Hosting:** Vercel
+
+---
+
+### Connect with me
+* GitHub: [@L-vy](https://github.com/L-vy)
+* LinkedIn: [Latasha Ivy Khoe](https://www.linkedin.com/in/latasha-ivy-khoe)
+* Email: latasha.ivy.khoe.2006@gmail.com

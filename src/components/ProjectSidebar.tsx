@@ -16,7 +16,7 @@ export default function ProjectSidebar({ index }: { index: number }) {
             className={`step fx${n === index ? ' on' : ''}`}   
             aria-label={`Project ${n + 1}: ${q.title}`}
             aria-current={n === index ? 'page' : undefined}
-          >{pad(n)}</Link>
+          ><span className="step-num">{pad(n)}</span></Link>
         ))}
       </nav>
       <nav className="side-nav" aria-label="Previous and next project">
